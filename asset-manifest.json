@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bmiCalculator/static/css/main.a398256c.css",
+    "main.js": "/bmiCalculator/static/js/main.219c4060.js",
+    "static/media/BgImage.jpg": "/bmiCalculator/static/media/BgImage.a215a1ded9f05d66e292.jpg",
+    "index.html": "/bmiCalculator/index.html",
+    "main.a398256c.css.map": "/bmiCalculator/static/css/main.a398256c.css.map",
+    "main.219c4060.js.map": "/bmiCalculator/static/js/main.219c4060.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a398256c.css",
+    "static/js/main.219c4060.js"
+  ]
+}
